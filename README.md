@@ -1,2 +1,2 @@
 # SoftwareEngineeringExample
-Test REpo From class
+Test Repo From class
